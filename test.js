@@ -2,7 +2,7 @@ var test = require('tape')
 var palin = require('./')
 
 test('checks palindromes', t => {
-  t.plan(3)
+  t.plan(4)
 
   t.true(palin('lolol'), 'palindrome 1')
   t.true(palin('tacocat'), 'palindrome 2')
