@@ -1,0 +1,25 @@
+{
+  "name": "palindrome",
+  "description": "Check if word is palindrome",
+  "version": "0.0.0",
+  "homepage": "https://github.com/baggo/palindrome",
+  "author": "Baggo Bois (https://git.io/baggo)",
+  "repository": "baggo/palindrome",
+  "bugs": {
+    "url": "https://github.com/baggo/palindrome/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
+  "keywords": [
+    "baggo",
+    "palindrome"
+  ]
+}
